@@ -1,7 +1,5 @@
 # TsurumikuCGComposer
 Tool for composing CGs from Tsurumiku games (v1.0.0)
-## Release Download
-https://mega.nz/#!xwwi2bqZ!i7vIleZQFopRZe2guPUyW6fJ8xTp0OTvVIWEBsaXAFw
 ## Instructions
 After installing a Tsurumiku game, navigate to the game directory, e.g. `C:\Program Files (x86)\鉄と裸`.
 
