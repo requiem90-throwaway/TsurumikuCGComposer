@@ -1,5 +1,7 @@
 # TsurumikuCGComposer
 Tool for composing CGs from Tsurumiku games (v1.0.0)
+## Download
+https://github.com/requiem90-throwaway/TsurumikuCGComposer/releases
 ## Instructions
 After installing a Tsurumiku game, navigate to the game directory, e.g. `C:\Program Files (x86)\鉄と裸`.
 
